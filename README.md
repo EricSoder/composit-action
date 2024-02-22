@@ -1,2 +1,2 @@
 # composit-action
-composit githubg action example
+composit github action example
