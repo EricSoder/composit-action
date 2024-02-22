@@ -1,3 +1,4 @@
+name: Test greet and random number
 on:
   [workflow_dispatch]
 
